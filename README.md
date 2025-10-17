@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ctrlnika
+- 👋 Hi, I’m @ctrlnika hamid.com
 - 👀 I’m interested in art, music, psychology, languages and coding!
 - 🌱 I’m currently learning python. I first learnt JS, which is unusual
 - 💞️ I’m looking to collaborate on a project called HowManyPeople
