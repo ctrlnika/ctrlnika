@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctrlnika
-- 👀 I’m interested in art, music, psychology, languages and coding!
-- 🌱 I’m currently learning python. I first learnt JS, which is unusual
+- 👀 I’m interested in art, music, psychology, languages, coding and neurotech!
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a project called HowManyPeople
 - 📫 How to reach me nika@hamid.com
 - 😄 Pronouns: she/her
