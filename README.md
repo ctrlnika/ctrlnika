@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctrlnika
 - 👀 I’m interested in art, music, psychology, languages, coding and neurotech!
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on a project called HowManyPeople
+- 💞️ I’m looking to collaborate @ hackathons in London!
 - 📫 How to reach me nika@hamid.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I fainted when I saw a chicken vein in year 3
