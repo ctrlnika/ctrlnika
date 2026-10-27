@@ -1,39 +1,51 @@
 <picture>
-  <img src="assets/london-terminal.svg" alt="Nika Jahankhah, ctrlnika. Iranian and Pakistani roots, born and raised in London. Art, music, psychology, computer science and neurotech. Piano and violin. Building PERSAHOLIC. Explore widely. Specialise deeply." width="100%">
+  <img src="assets/london-terminal.svg" alt="Nika Jahankhah, ctrlnika. Iranian and Pakistani roots, born and raised in London. Studying BSc (Hons) Computer Science at City St George’s, University of London. Art, music, psychology, computer science and neurotech. Building PERSAHOLIC. Explore widely. Specialise deeply." width="100%">
 </picture>
 
-<div align="center">
+<img src="assets/connections.svg" alt="A little context. A Tube-inspired map connects creative practice, computing, research and projects. Creative computing and mind and technology are the two interchanges." width="100%">
 
-# Hi, I’m Nika.
+[Explore my portfolio](https://jahankhah.com) · [Visit PERSAHOLIC](https://persaholic.com) · [LinkedIn](https://www.linkedin.com/in/nikahamid) · [Let’s talk](mailto:nika@hamid.com)
 
-**Code, culture & curiosity.**
+<img src="assets/projects-heading.svg" alt="A few stops along the way" width="100%">
 
-[Explore my portfolio ↗](https://jahankhah.com) · [PERSAHOLIC ↗](https://persaholic.com) · [LinkedIn](https://www.linkedin.com/in/nikahamid) · [Say hello](mailto:nika@hamid.com)
+<p>
+  <a href="https://stalledlondon.lovable.app"><img src="assets/stalled-london.svg" alt="Stalled London — Making London’s stalled housing developments visible. View project." width="32%"></a>
+  <a href="https://v0-neuralnets.vercel.app"><img src="assets/neural-nets.svg" alt="Neural Nets — Exploring neurotech, BCIs and bioinformatics. View project." width="32%"></a>
+  <a href="https://parachute2.lovable.app"><img src="assets/parachute.svg" alt="Parachute — An AI safety gateway. Work in progress. View project." width="32%"></a>
+</p>
 
-</div>
+<img src="assets/tech-stack.svg" alt="My tech stack. Languages: Python, TypeScript, JavaScript, HTML, CSS, C++, Java and SQL. Frameworks: React and React Native. Tools: Git, Visual Studio Code, IntelliJ, Excel, Access and Microsoft 365." width="100%">
 
-## A little about me
+<details>
+<summary>Read about_nika.py as text</summary>
 
-Born and raised in London, with Iranian and Pakistani roots. I’m studying Computer Science at City St George’s, University of London, and my interests stretch across art, music, psychology and neurotech.
+```python
+name = "Nika Jahankhah"
+username = "ctrlnika"
+roots = ("Iranian", "Pakistani")
+home = "London, born and raised"
+university = "City St George’s, University of London"
+degree = "BSc (Hons) Computer Science"
+interests = [
+    "art", "music", "psychology",
+    "computer science", "neurotech",
+]
+instruments = ["piano", "violin"]
+building = "PERSAHOLIC"
+approach = "Explore widely. Specialise deeply."
+```
 
-I like exploring widely and going deep into the things that stay with me — whether that’s building software, understanding how people think, or finding a new piece to play on piano or violin.
+### Connections
 
-## What I’m building
+- **Creative practice:** art → music → piano and violin → culture and memory → design → [PERSAHOLIC](https://persaholic.com).
+- **Computing:** computer science → neurotech → bioinformatics → [Neural Nets](https://v0-neuralnets.vercel.app).
+- **Research and impact:** psychology → research → safer AI → [Parachute](https://parachute2.lovable.app) → civic technology → [Stalled London](https://stalledlondon.lovable.app).
+- **Shared interests:** creative computing; mind and technology.
 
-I’m building **[PERSAHOLIC](https://persaholic.com)**, a home for my love of culture, memory and contemporary design. Elsewhere, I’m exploring civic technology, bioinformatics and safer AI.
+### Tech stack
 
-| Project | A little context |
-| --- | --- |
-| **[Stalled London](https://stalledlondon.lovable.app)** | Making London’s stalled housing developments visible. |
-| **[Neural Nets](https://v0-neuralnets.vercel.app)** | Exploring neurotech, brain–computer interfaces and bioinformatics. |
-| **[Parachute](https://parachute2.lovable.app)** | An AI safety gateway. A work in progress. |
+- **Languages:** Python, TypeScript, JavaScript, HTML, CSS, C++, Java, SQL.
+- **Frameworks:** React, React Native.
+- **Tools:** Git, Visual Studio Code, IntelliJ, Excel, Access, Microsoft 365.
 
-## Away from the keyboard
-
-Piano, violin, kayaking and weightlifting. Currently at a 120 kg leg press, with more to come.
-
----
-
-**Explore widely. Specialise deeply.**
-
-For opportunities, collaborations or a conversation about something I’m building, find me on [LinkedIn](https://www.linkedin.com/in/nikahamid) or email [nika@hamid.com](mailto:nika@hamid.com).
+</details>
