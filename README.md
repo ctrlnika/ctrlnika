@@ -2,41 +2,38 @@
   <img src="assets/london-terminal.svg" alt="Nika Jahankhah, ctrlnika. Iranian and Pakistani roots, born and raised in London. Art, music, psychology, computer science and neurotech. Piano and violin. Building PERSAHOLIC. Explore widely. Specialise deeply." width="100%">
 </picture>
 
-## A little context
+<div align="center">
 
-Born and raised in London, with Iranian and Pakistani roots. My interests range from art and music to computer science, psychology and neurotech. I like exploring widely and going deep into the things that stay with me.
+# Hi, I’m Nika.
 
-I’m building [PERSAHOLIC](https://persaholic.com), a home for my love of culture, memory and contemporary design. Elsewhere, I’m exploring bioinformatics and safer AI.
+**Code, culture & curiosity.**
 
-[Explore my portfolio](https://jahankhah.com) · [Visit PERSAHOLIC](https://persaholic.com) · [Let’s talk](mailto:nika@hamid.com)
+[Explore my portfolio ↗](https://jahankhah.com) · [PERSAHOLIC ↗](https://persaholic.com) · [LinkedIn](https://www.linkedin.com/in/nikahamid) · [Say hello](mailto:nika@hamid.com)
 
-## A few stops along the way
+</div>
 
-| [Stalled London](https://stalledlondon.lovable.app) | [Neural Nets](https://v0-neuralnets.vercel.app) | [Parachute](https://parachute2.lovable.app) |
-| --- | --- | --- |
-| Making London’s stalled housing developments visible. | Exploring neurotech, BCIs and bioinformatics. | An AI safety gateway. Work in progress. |
+## A little about me
 
-```python
-# away from the keyboard
-weekend = ["kayaking", "weightlifting", "more music"]
-leg_press_kg = 120  # unfinished business
-```
+Born and raised in London, with Iranian and Pakistani roots. I’m studying Computer Science at City St George’s, University of London, and my interests stretch across art, music, psychology and neurotech.
 
-<details>
-<summary>Read about_nika.py as text</summary>
+I like exploring widely and going deep into the things that stay with me — whether that’s building software, understanding how people think, or finding a new piece to play on piano or violin.
 
-```python
-name = "Nika Jahankhah"
-username = "ctrlnika"
-roots = ("Iranian", "Pakistani")
-home = "London, born and raised"
-interests = [
-    "art", "music", "psychology",
-    "computer science", "neurotech",
-]
-instruments = ["piano", "violin"]
-building = "PERSAHOLIC"
-approach = "Explore widely. Specialise deeply."
-```
+## What I’m building
 
-</details>
+I’m building **[PERSAHOLIC](https://persaholic.com)**, a home for my love of culture, memory and contemporary design. Elsewhere, I’m exploring civic technology, bioinformatics and safer AI.
+
+| Project | A little context |
+| --- | --- |
+| **[Stalled London](https://stalledlondon.lovable.app)** | Making London’s stalled housing developments visible. |
+| **[Neural Nets](https://v0-neuralnets.vercel.app)** | Exploring neurotech, brain–computer interfaces and bioinformatics. |
+| **[Parachute](https://parachute2.lovable.app)** | An AI safety gateway. A work in progress. |
+
+## Away from the keyboard
+
+Piano, violin, kayaking and weightlifting. Currently at a 120 kg leg press, with more to come.
+
+---
+
+**Explore widely. Specialise deeply.**
+
+For opportunities, collaborations or a conversation about something I’m building, find me on [LinkedIn](https://www.linkedin.com/in/nikahamid) or email [nika@hamid.com](mailto:nika@hamid.com).
