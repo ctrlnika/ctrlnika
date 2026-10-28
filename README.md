@@ -4,7 +4,7 @@
 
 <img src="assets/connections.svg" alt="A little context. A Tube-inspired map connects creative practice, computing, research and projects. Creative computing and mind and technology are the two interchanges." width="100%">
 
-[Explore my portfolio](https://jahankhah.com) · [Visit PERSAHOLIC](https://persaholic.com) · [LinkedIn](https://www.linkedin.com/in/nikahamid) · [Let’s talk](mailto:nika@hamid.com)
+[Explore my portfolio](https://jahankhah.com) · [Visit PERSAHOLIC](https://persaholic.com) · [LinkedIn](https://www.linkedin.com/in/nikajahankhah) · [Let’s talk](mailto:nika@hamid.com)
 
 <img src="assets/projects-heading.svg" alt="A few stops along the way" width="100%">
 
